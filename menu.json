@@ -1,24 +1,65 @@
+{"menu":[
+    {
+        "id": 1,
+        "nombre": "Hamburguesa",
+        "descripcion": "Doble Carne, Con Tocino, Queso Amarillo, Jalapeño, Catsup",
+        "precio": "80",
+        "imagen": "img/hamburguesa.jpg"
+    },
 
-{"menu":{
+    {
+        "id": 2,
+        "nombre": "Pizza",
+        "descripcion": "Pepperoni, Hawainana, Orilla de queso",
+        "precio": "180",
+        "imagen": "img/pizza.jpg"
+    },
 
-{
-    "id":2,
-    "nombre":"Hamburguesa",
-    "descripcion":"Es una carne y papas",
-    "precio":100,
-    "imagen":"https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/hamburguesa-2028707.jpg"
+    {
+        "id": 3,
+        "nombre": "Enchiladas",
+        "descripcion": "Salsa Roja, Queso, Frijoles, Lechuga",
+        "precio": "150",
+        "imagen": "img/enchiladas.jpg"
+    },
 
-}
-{
-    "id":2,
-    "nombre":"Sopes",
-    "descripcion":"Es un sope con verduras y carne",
-    "precio":80,
-    "imagen":
+    {
+        "id": 4,
+        "nombre": "Tacos",
+        "descripcion": "Bisteck, Cilantro, Cebolla, Salsa Verde y Roja",
+        "precio": "180",
+        "imagen": "img/tacos.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Tamales",
+        "descripcion": "Picadillo, Norteños, Puerco, Pollo",
+        "precio": "60",
+        "imagen": "img/tamales.jpg"
+    },
 
-}
-    
+    {
+        "id": 6,
+        "nombre": "sopes",
+        "descripcion": "Queso, Frijoles, Lechuga, Salsas",
+        "precio": "75",
+        "imagen": "img/ak.jpg"
+    },
 
+    {
+        "id": 7,
+        "nombre": "Pozole",
+        "descripcion": "Maiz, Rabano, Tostadas, Lechuga, Puerco",
+        "precio": "50",
+        "imagen": "img/mp.jpg"
+    },
 
-}
+    {
+        "id": 8,
+        "nombre": "Aguas Frescas",
+        "descripcion": "Jamaica, Horchata, Limon, Piña",
+        "precio": "20",
+        "imagen": "img/luger.jpg"
+    }
+]
 }
